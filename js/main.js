@@ -22,12 +22,17 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   
   // Followers - Cambiar mensajes
   const messages = [
-    'Desmy Mia Amor',
+    'Desmy  Mia  Amor',
+
     'Esta flor es para ti',
+
     'Te quiero mucho',
+
     'Gracias por todo',
+
     '¡Eres especial!',
-    '¡TU MI 11 del 11 ❤️!'
+
+    '¡TU  MI   11  del  11 ❤️!'
   ];
   
   var wrapper = document.querySelector('.wrapper');
